@@ -1,0 +1,23 @@
+# GitHub Pages configuration
+title: "Erool - Your Tracking Specialist"
+description: "Professional Facebook Pixel, Conversion API, and GA4 tracking solutions"
+url: "https://webhridoyc.github.io"
+baseurl: "/webhridoyc"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - "Facebook Pixel Setup"
+  - .gitignore
+  - .git/
+
+# Include files
+include:
+  - index.html
+  - styles.css
+  - script.js
