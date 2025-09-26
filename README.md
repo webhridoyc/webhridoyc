@@ -105,7 +105,7 @@
 
 ## 💫 Profile Views Counter
 
-<img src="https://profile-counter.glitch.me/webhridoyc/count.svg" alt="Profile views" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3duMGR4YmI3bXcwM205YTlyNDk0cXYwY3BnOGEzNjQ0dXd4eGpxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRhSHzQ4NXOdrHIZJd/giphy.gif" />
 
 </div>
 
