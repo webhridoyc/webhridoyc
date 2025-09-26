@@ -8,29 +8,6 @@
 
 ---
 
-<div align="center">
-
-## 🎮 Pixel Animation Zone
-
-```
-⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⢰⡏⠀⠀⠈⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠈⠷⠾⠇⠸⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-     ██████╗  █████╗ ████████╗ █████╗ 
-     ██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗
-     ██║  ██║███████║   ██║   ███████║
-     ██║  ██║██╔══██║   ██║   ██╔══██║
-     ██████╔╝██║  ██║   ██║   ██║  ██║
-     ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
----
-
 ## 🌟 Featured Projects
 
 <div align="center">
@@ -108,7 +85,7 @@
 
 ## 🎵 Spotify Playing
 
-<img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" width="350" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVoZHRkZXp2cWQ5aXFwc2R5dWdsYXZobjVrZzJhMmN6ZGNjZWpmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cgW5iwX0e37qg/giphy.gif?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" width="350" />
 
 </div>
 
