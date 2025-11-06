@@ -18,7 +18,6 @@
 | [**💼 portfolio-**](https://github.com/webhridoyc/portfolio-) | Personal portfolio showcasing my journey | ![Stars](https://img.shields.io/github/stars/webhridoyc/portfolio-?style=social) |
 | [**🚀 duiizon**](https://github.com/webhridoyc/duiizon) | Experimental projects and creative ideas | ![Stars](https://img.shields.io/github/stars/webhridoyc/duiizon?style=social) |
 | [**⚡ duizon**](https://github.com/webhridoyc/duizon) | Development sandbox and prototypes | ![Stars](https://img.shields.io/github/stars/webhridoyc/duizon?style=social) |
-| [**💝 IFFAT-JAHAN-ROSHMI**](https://github.com/webhridoyc/IFFAT-JAHAN-ROSHMI) | A special project close to my heart | ![Stars](https://img.shields.io/github/stars/webhridoyc/IFFAT-JAHAN-ROSHMI?style=social) |
 
 </div>
 
